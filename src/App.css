@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    position: sticky;
+}
+body{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.body{
+    
+    text-align: center;
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(177, 182, 182);
+    color: black;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+
